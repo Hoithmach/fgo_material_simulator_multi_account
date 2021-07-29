@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         FGO Material Simulator Multi-Account
-// @namespace    http://tampermonkey.net/
-// @version      0.1
+// @namespace    https://github.com/Hoithmach/fgo_material_simulator_multi_account
+// @version      0.1.1
 // @description  Adds rudimentary account switching to fgosimulator.webcrow.jp
 // @author       Hoithmach
 // @match        http://fgosimulator.webcrow.jp/Material/
-// @icon         https://www.google.com/s2/favicons?domain=webcrow.jp
+// @icon         https://webcrow.jp/images/common/favicon.ico
 // @require      https://userscripts-mirror.org/scripts/source/107941.user.js
 // @grant        GM_setValue
 // @grant        GM_getValue

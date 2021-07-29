@@ -14,3 +14,6 @@ Options:
 
 #### v0.1:
 Initial Upload
+
+#### v0.1.1
+Changed namespace, and icon URL
