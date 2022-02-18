@@ -5,6 +5,7 @@
 // @description  Adds rudimentary account switching to fgosimulator.webcrow.jp
 // @author       Hoithmach
 // @match        http://fgosimulator.webcrow.jp/Material/
+// @match        https://fgosim.github.io/Material/
 // @icon         https://webcrow.jp/images/common/favicon.ico
 // @require      https://userscripts-mirror.org/scripts/source/107941.user.js
 // @grant        GM_setValue
